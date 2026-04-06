@@ -1,0 +1,9 @@
+{
+  "name": "release-guard",
+  "version": "1.0.0",
+  "description": "Ensures open source packages are properly released on npm, GitHub, and documented",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  }
+}
