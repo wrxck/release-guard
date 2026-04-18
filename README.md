@@ -1,5 +1,7 @@
 # release-guard
 
+[![CI](https://github.com/wrxck/release-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/wrxck/release-guard/actions/workflows/ci.yml)
+
 A Claude Code plugin that prevents the most common open source release mistakes.
 
 ## The problem
